@@ -1,0 +1,24 @@
+{
+	"backgrounds": [
+		{"filename": "01.jpg", "title": "La Push, Washington, USA", "source": "Dave Morrow", "sourceUrl": "https://www.flickr.com/photos/daves-f-stop/8079071366"},
+		{"filename": "02.jpg", "title": "Zug, Switzerland", "source": "Magdalena Roeseler", "sourceUrl": "https://www.flickr.com/photos/magdalenaroeseler/10497301253"},
+		{"filename": "03.jpg", "title": "Andøya, Norway", "source": "Stian Klo", "sourceUrl": "http://500px.com/photo/41198398/h%C3%B8yvika-beach-by-stian-klo"},
+		{"filename": "04.jpg", "title": "Saxon Switzerland, Germany", "source": "skoeber", "sourceUrl": "https://www.flickr.com/photos/asphericlens/6345711358"},
+		{"filename": "05.jpg", "title": "Saxon Switzerland, Germany", "source": "skoeber", "sourceUrl": "https://www.flickr.com/photos/asphericlens/14366773224"},
+		{"filename": "06.jpg", "title": "Saxony, Germany", "source": "skoeber", "sourceUrl": "https://www.flickr.com/photos/asphericlens/7160610404"},
+		{"filename": "07.jpg", "title": "Source Unknown", "source": "Submit Source", "sourceUrl": "#none"},
+		{"filename": "08.jpg", "title": "Otzarreta Forest, Spain", "source": "Jesús Ignacio Bravo Soler", "sourceUrl": "http://500px.com/photo/68800189/singular-by-jes%C3%BAs-ignacio-bravo-soler"},
+		{"filename": "09.jpg", "title": "Palouse Falls, Washington, USA", "source": "Dave Morrow", "sourceUrl": "https://www.flickr.com/photos/daves-f-stop/9593394811"},
+		{"filename": "10.jpg", "title": "San Francisco, California, USA", "source": "Dave Morrow", "sourceUrl": "https://www.flickr.com/photos/daves-f-stop/11713436133"},
+		{"filename": "11.jpg", "title": "Auster-Skaftafellssysla, Iceland", "source": "Dave Morrow", "sourceUrl": "https://www.flickr.com/photos/daves-f-stop/8272381830"},
+		{"filename": "12.jpg", "title": "Hvide Sande, Denmark", "source": "Chris Zielecki", "sourceUrl": "https://www.flickr.com/photos/zanthia/7870409330"},
+		{"filename": "13.jpg", "title": "Paptsdorf, Germany", "source": "skoeber", "sourceUrl": "https://www.flickr.com/photos/asphericlens/7227178308"},
+		{"filename": "14.jpg", "title": "Teton Range, Wyoming, USA", "source": "Trey Ratcliff", "sourceUrl": "https://www.flickr.com/photos/stuckincustoms/3124621920"},
+		{"filename": "15.jpg", "title": "Rock Islands, Palau", "source": "Lux Tonnerre", "sourceUrl": "https://www.flickr.com/photos/luxtonnerre/2347771522"},
+		{"filename": "16.jpg", "title": "Hakone Shrine, Japan", "source": "plague doctor", "sourceUrl": "https://www.flickr.com/photos/plague_doctor/2659716907/"},
+		{"filename": "17.jpg", "title": "Conway Valley, New Hampshire, USA", "source": "Derek Kind", "sourceUrl": "https://500px.com/photo/89011771/tree-fog-by-derek-kind"},
+		{"filename": "18.jpg", "title": "Cape Breton, Nova Scotia, Canada", "source": "Derek Kind", "sourceUrl": "https://500px.com/photo/82629151/cape-breton-shore-by-derek-kind"},
+		{"filename": "19.jpg", "title": "Mount Shasta, California, USA", "source": "Derek Kind", "sourceUrl": "https://500px.com/photo/71056591/mount-shasta-by-derek-kind"},
+		{"filename": "20.jpg", "title": "Louisbourg, Nova Scotia, Canada", "source": "Derek Kind", "sourceUrl": "https://500px.com/photo/71056591/mount-shasta-by-derek-kind"}
+	]
+}
